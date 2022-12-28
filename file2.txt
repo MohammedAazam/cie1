@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-in master
-=======
-this is master
->>>>>>> branch1
